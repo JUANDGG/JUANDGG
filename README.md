@@ -1,5 +1,6 @@
+
 <header>
- <img src="https://media0.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gif?cid=ecf05e47kre9weowjqcn57bjoxnezkm3kj1bpnugi72dovyd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='100%'>
+    <img src="https://media0.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gif?cid=ecf05e47kre9weowjqcn57bjoxnezkm3kj1bpnugi72dovyd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='100%' height="170px" style="box-shadow:0px 10px 50px  blue;">
 </header>
 <h1 align="center">Hi 👋, I'm JUAN DAVID</h1>
 <h3 align="center">I am a web developer with a passion for technology and development in different fields of it.</h3>
