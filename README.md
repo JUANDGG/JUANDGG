@@ -16,9 +16,9 @@ JUAN</a></h1>
 - 🤝 Estoy dispuesto a trabajar en cualquier projecto.
 
 
-- 💬 Ask me about **java y spring boot**
+- 💬 Preguntame sobre **java y spring boot**
 
-- 📫 How to reach me **juanguiza65@gmail.com**
+- 📫 Me puede conctactar atraves de  **juanguiza65@gmail.com**
 
 
 
