@@ -1,18 +1,78 @@
 
-## 🌐 Socials:
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/black_shop_gg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-david-guiza-garcia/) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JUANDGG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JUANDGG&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANDGG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <article align="left">
+    <h1 style="display: inline-block">Hi 👋, I'm Juan David</h1></
+  </article>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=JUANDGG&icon=0&color=0)](https://visitcount.itsvg.in)
+<div id="user-content-toc">
+  <article >
+    <summary><h2 style="display: inline-block">About me :</h2></summary>
+  </article>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Hello! I am Juan David Guiza García and I am passionate about the world of software development. I love creating innovative solutions that make people's lives easier and improve the efficiency of companies. I have experience in various programming languages ​​and enjoy constantly learning about new technologies and methodologies. My goal is to continue growing as a developer and contribute to projects that have a positive impact on society.
+
+
+
+<div id="user-content-toc">
+  <article >
+    <summary><h3 style="display: inline-block">My skills :</h3></summary>
+  </article>
+</div>
+
+
+
+
+<div id="user-content-toc">
+  <article >
+    <summary><h4 style="display: inline-block">FrontEnd :</h4></summary>
+  </article>
+</div>
+
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <article >
+    <summary><h4 style="display: inline-block">BackEnd :</h4></summary>
+  </article>
+</div>
+
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <article >
+    <summary><h4 style="display: inline-block">Tools :</h4></summary>
+  </article>
+</div>
+
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,figma,git,linux" />
+  </a>
+</p>
+
+<br/>
+
+<!--- snake -->
+<div >
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
