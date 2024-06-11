@@ -13,31 +13,19 @@
 </div>
 
 
-<div id="user-content-toc">
-  <article >
-    <summary><h2 style="display: inline-block">About me :</h2></summary>
-  </article>
-</div>
-
+<h3 style="display: inline-block">About me :</h3>
 
 Hello! I am Juan David Guiza García and I am passionate about the world of software development. I love creating innovative solutions that make people's lives easier and improve the efficiency of companies. I have experience in various programming languages ​​and enjoy constantly learning about new technologies and methodologies. My goal is to continue growing as a developer and contribute to projects that have a positive impact on society.
 
 
 
-<div id="user-content-toc">
-  <article >
-    <summary><h3 style="display: inline-block">My skills :</h3></summary>
-  </article>
-</div>
+
+
+<h3 style="display: inline-block">My Skills :</h3>
 
 
 
-
-<div id="user-content-toc">
-  <article >
-    <summary><h4 style="display: inline-block">FrontEnd :</h4></summary>
-  </article>
-</div>
+<h4 style="display: inline-block">FrontEnd :</h4>
 
 <p >
   <a href="https://skillicons.dev">
@@ -45,11 +33,9 @@ Hello! I am Juan David Guiza García and I am passionate about the world of soft
   </a>
 </p>
 
-<div id="user-content-toc">
-  <article >
-    <summary><h4 style="display: inline-block">BackEnd :</h4></summary>
-  </article>
-</div>
+
+
+<h4 style="display: inline-block">BackEnd :</h4>
 
 <p >
   <a href="https://skillicons.dev">
@@ -57,11 +43,9 @@ Hello! I am Juan David Guiza García and I am passionate about the world of soft
   </a>
 </p>
 
-<div id="user-content-toc">
-  <article >
-    <summary><h4 style="display: inline-block">Tools :</h4></summary>
-  </article>
-</div>
+
+
+<h4 style="display: inline-block">Tools :</h4>
 
 <p >
   <a href="https://skillicons.dev">
@@ -71,7 +55,7 @@ Hello! I am Juan David Guiza García and I am passionate about the world of soft
 
 <br/>
 
-<!--- snake -->
+
 <div >
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
