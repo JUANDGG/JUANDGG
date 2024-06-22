@@ -42,8 +42,13 @@ Hello! I am Juan David Guiza García and I am passionate about the world of soft
     <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
   </a>
 </p>
+<h4 style="display: inline-block">DevOps :</h4>
 
-
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+</p>
 
 <h4 style="display: inline-block">Tools :</h4>
 
