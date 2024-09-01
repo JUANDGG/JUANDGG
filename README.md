@@ -61,6 +61,3 @@ Hello! I am Juan David Guiza García and I am passionate about the world of soft
 <br/>
 
 
-<div >
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
