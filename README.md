@@ -42,6 +42,8 @@ Hello! I am Juan David Guiza García and I am passionate about the world of soft
     <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
   </a>
 </p>
+
+<!--
 <h4 style="display: inline-block">DevOps :</h4>
 
 <p >
@@ -50,11 +52,13 @@ Hello! I am Juan David Guiza García and I am passionate about the world of soft
   </a>
 </p>
 
+-->
+
 <h4 style="display: inline-block">Tools :</h4>
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,figma,git,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,linux" />
   </a>
 </p>
 
