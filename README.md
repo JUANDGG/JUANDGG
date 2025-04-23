@@ -1,67 +1,55 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/black_shop_gg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-guiza-garcia/) 
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <article align="left">
-    <h1 style="display: inline-block">Hi 👋, I'm Juan David</h1></
-  </article>
-</div>
-
-
-<h3 style="display: inline-block">About me :</h3>
-
-Hello! I am Juan David Guiza García and I am passionate about the world of software development. I love creating innovative solutions that make people's lives easier and improve the efficiency of companies. I have experience in various programming languages ​​and enjoy constantly learning about new technologies and methodologies. My goal is to continue growing as a developer and contribute to projects that have a positive impact on society.
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
 
 
+<!-- Intro -->
+<h1 align="center">Hi 👋, I'm Juan David</h1>
+<h3 align="center">🚀 Software Developer | Dreamer | Lifelong Learner</h3>
 
+---
 
-<h3 style="display: inline-block">My Skills :</h3>
+### 🧑‍💻 About Me
 
+Hello! I'm **Juan David Guiza García**, passionate about software development and driven by the desire to build innovative solutions that improve lives and optimize business efficiency.
 
+💡 Always learning new technologies and development methodologies  
+🎯 Aiming to grow as a developer and contribute to projects that create a positive impact  
+💻 Currently working with modern web technologies and building meaningful applications
 
-<h4 style="display: inline-block">FrontEnd :</h4>
+---
 
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-  </a>
+### 🛠️ Tech Stack
+
+#### 👨‍🎨 Frontend:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,angular" alt="Frontend skills"/>
 </p>
 
-
-
-<h4 style="display: inline-block">BackEnd :</h4>
-
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
-  </a>
+#### 🧠 Backend:
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="Backend skills"/>
 </p>
 
-<!--
-<h4 style="display: inline-block">DevOps :</h4>
-
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
+#### 🧰 Tools & Platforms:
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,linux" alt="Tools"/>
 </p>
 
--->
+---
 
-<h4 style="display: inline-block">Tools :</h4>
+### ⚡ Fun Facts
 
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,linux" />
-  </a>
+- ⚽ I’m a huge football fan and I love ice cream 🍦  
+- 🎬 I enjoy watching movies in English to improve my skills  
+- 🤝 I love helping others and collaborating on cool projects
+
+---
+
+### 📫 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-david-guiza-garcia/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/black_shop_gg/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
-<br/>
-
-
+---
