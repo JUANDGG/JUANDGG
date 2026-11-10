@@ -1,52 +1,48 @@
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
-
-
-<!-- Intro -->
-<h1 align="center">Hi 👋, I'm Juan David</h1>
-<h3 align="center">🚀 Software Developer | Dreamer | Lifelong Learner</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separador"/>
+<h1 align="center">¡Hola 👋! Soy Juan David</h1>
+<h3 align="center">🚀 Desarrollador de Software | Soñador | Aprendiz de por vida</h3>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 Sobre mí
 
-Hello! I'm **Juan David Guiza García**, passionate about software development and driven by the desire to build innovative solutions that improve lives and optimize business efficiency.
+¡Hola! Soy **Juan David Guiza García**, apasionado por el desarrollo de software y motivado por el deseo de construir soluciones innovadoras que mejoren la vida de las personas y optimicen la eficiencia de las empresas.
 
-💡 Always learning new technologies and development methodologies  
-🎯 Aiming to grow as a developer and contribute to projects that create a positive impact  
-💻 Currently working with modern web technologies and building meaningful applications
+💡 Siempre aprendiendo nuevas tecnologías y metodologías de desarrollo  
+🎯 Enfocado en crecer como desarrollador y contribuir a proyectos que generen un impacto positivo  
+💻 Actualmente trabajo con tecnologías web modernas y desarrollo aplicaciones con propósito
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologías y herramientas
 
 #### 👨‍🎨 Frontend:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,angular" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,angular" alt="Tecnologías frontend"/>
 </p>
 
 #### 🧠 Backend:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="Tecnologías backend"/>
 </p>
 
-#### 🧰 Tools & Platforms:
+#### 🧰 Herramientas y plataformas:
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,linux" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,linux" alt="Herramientas"/>
 </p>
 
 ---
 
-### ⚡ Fun Facts
+### ⚡ Algunos datos sobre mí
 
-- ⚽ I’m a huge football fan and I love ice cream 🍦  
-- 🎬 I enjoy watching movies in English to improve my skills  
-- 🤝 I love helping others and collaborating on cool projects
+- ⚽ Soy un gran aficionado al fútbol y me encanta el helado 🍦
+- 🎬 Disfruto viendo películas en inglés para mejorar mis habilidades en el idioma
+- 🤝 Me gusta ayudar a los demás y colaborar en proyectos interesantes
 
 ---
 
-### 📫 Let's Connect!
+### 📫 ¡Conectemos!
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-david-guiza-garcia/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/black_shop_gg/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
