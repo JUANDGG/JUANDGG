@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separador"/>
 <h1 align="center">¡Hola 👋! Soy Juan David</h1>
-<h3 align="center">🚀 Desarrollador de Software | Soñador | Aprendiz de por vida</h3>
+<h3 align="center">🚀 Desarrollador de Software</h3>
 
 ---
 
