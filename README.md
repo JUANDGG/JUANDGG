@@ -35,8 +35,6 @@
 ---
 
 ### ⚡ Algunos datos sobre mí
-
-- ⚽ Soy un gran aficionado al fútbol y me encanta el helado 🍦
 - 🎬 Disfruto viendo películas en inglés para mejorar mis habilidades en el idioma
 - 🤝 Me gusta ayudar a los demás y colaborar en proyectos interesantes
 
